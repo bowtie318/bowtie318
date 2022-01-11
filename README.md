@@ -1,16 +1,23 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Baran,</h1>
 
-<!--
-**bowtie318/bowtie318** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">A Passionate Java Developer From Turkey Offering The Service.</h2>
 
-Here are some ideas to get you started:
+- 🔭 I’m Currently working on : [www.bowtie318.ml](https://www.bowtie318.ml)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m Currently learning : **JavaScript**
+
+- 👯 I’m Looking to collaborate on : [www.bowtie318.ml](https://www.bowtie318.ml)
+
+- 🤝 I’m Looking for help with : [www.bowtie318.ml](https://www.bowtie318.ml)
+
+- 👨‍💻 All of my projects are available at : [GitHub](https://www.bowtie318.ml)
+
+- 📝 I Regularly write articles on : [www.bowtie318.ml](https://www.bowtie318.ml)
+
+- 💬 Ask me about : **HTML, CSS, JS, C#, Python**
+
+- 📫 How to reach me : **bowtie318@outlook.com**
+
+- 📄 Know about my experiences : [www.bowtie318.ml](https://www.bowtie318.ml)
+
+- ⚡ Fun fact : **I don't know, I didn't make anyone laugh because I didn't have anyone.**
