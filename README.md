@@ -10,7 +10,7 @@
 
 - 🤝 I’m Looking for help with : [www.bowtie318.ml](https://www.bowtie318.ml)
 
-- 👨‍💻 All of my projects are available at : [GitHub](https://www.bowtie318.ml)
+- 👨‍💻 All of my projects are available at : [GitHub](https://github.com/bowtie318)
 
 - 📝 I Regularly write articles on : [www.bowtie318.ml](https://www.bowtie318.ml)
 
